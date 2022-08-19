@@ -1,0 +1,76 @@
+# java
+*.jar
+*.war
+*.ear
+*.iml
+*.idea
+.mtj.tmp/
+*.class
+*.nar
+hs_err_pid*
+
+# eclipse
+.settings/
+bin/
+tmp/
+.metdata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+# netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# vscode
+.vscode/
+.code-workspace
+
+# os x
+.DS_Store
+
+# inglelliJ
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# gradle
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+*.log
+*.zip
+*.tar.gz
+*.rar
+replay_pid*
